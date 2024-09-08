@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>xyz.rpc</groupId>
+    <artifactId>rpc-proj</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0.0</version>
+    <modules>
+        <module>rpc-framework</module>
+        <module>rpc-sample-client</module>
+        <module>rpc-sample-api</module>
+        <module>rpc-sample-server</module>
+        <module>rpc-client-starter</module>
+        <module>rpc-server-inject-starter</module>
+        <module>rpc-center</module>
+        <module>rpc-common</module>
+    </modules>
+
+
+</project>

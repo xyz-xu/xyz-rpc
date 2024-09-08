@@ -1,0 +1,10 @@
+xyz:
+  rpc:
+    client:
+      center-url: "127.0.0.1:10005"
+      package-name:
+        - "xyz.rpc.sample.api"
+        - "xyz.rpc.sample.api2"
+
+server:
+  port: 10010

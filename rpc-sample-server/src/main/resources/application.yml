@@ -1,0 +1,11 @@
+xyz:
+  rpc:
+    server:
+      package-name:
+        - "xyz.rpc.sample.api"
+        - "xyz.rpc.sample.api2"
+        - "xyz.rpc.sample.api3"
+      center-url: "127.0.0.1:10005"
+
+server:
+  port: 10011
